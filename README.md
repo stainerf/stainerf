@@ -2,10 +2,11 @@
 
 Passionate about science an technology! 🔭
 
-- 🧪 Chemistry graduate
+- 🧪 Chemistry graduate on University of Brasilia - UnB
 - 🔬 Worked on science research on organic and inorganic chemistry
 - 🌱 Industrial wastewater treatment operator
-- 💻 Discovered a new passion in programming
+- 💻 Discovered a new passion in programming and still learning
+- 🚀 Looking for a career migration
 
 ## Languages and Tools 💻
 <div>

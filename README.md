@@ -3,7 +3,7 @@
 Passionate about science an technology! 🔭
 
 - 🧪 Chemistry graduate
-- 🔬 Worked on some science initiation
+- 🔬 Worked on science research on organic and inorganic chemistry
 - 🌱 Industrial wastewater treatment operator
 - 💻 Discovered a new passion in programming
 

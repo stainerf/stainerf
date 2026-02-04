@@ -10,7 +10,7 @@ Passionate about science an technology! 🔭
 
 ## Languages and Tools 💻
 <div>
-  <img src = "https://img.shields.io/badge/React.JS-black?style=for-the-badge&logo=react&logoColor=%2361DAFB"</img>
+  <img src = "https://img.shields.io/badge/React.JS-gray?style=for-the-badge&logo=react&logoColor=%2361DAFB"</img>
   <img src = "https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23F7DF1E"</img>
   <img src = "https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=Green"</img>
   <img src = "https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white"</img>
